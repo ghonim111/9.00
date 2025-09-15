@@ -1,0 +1,110 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 15 Sep 2025 16:44:48 at https://isfay.github.io/960/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qYC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" -Y https://isfay.github.io/960/ -O1 "C:\Users\MGHONEIM\Desktop\New folder\web" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+16:44:53	Warning: 	file not stored in cache due to bogus state (incomplete type with No Content (204), size 0): https://www.youtube.com/error_204?t=jserror&level=ERROR
+16:45:14	Error: 	"No Content" (204) at link https://www.youtube.com/error_204?t=jserror&level=ERROR (from https://www.youtube.com/@IslamFayed)
+16:45:23	Error: 	"Not Found" (404) at link https://www.youtube.com/ios-app:/544007664/vnd.youtube/www.youtube.com/channel/UCfQLy6txvSNtFFkA2Eu140w (from https://www.youtube.com/@IslamFayed)
+16:45:24	Warning: 	Moved Permanently for https://www.youtube.com/about/
+16:45:24	Warning: 	File has moved from https://www.youtube.com/about/ to https://about.youtube/
+16:45:24	Warning: 	Moved Permanently for https://www.youtube.com/about/press/
+16:45:24	Warning: 	File has moved from https://www.youtube.com/about/press/ to https://blog.youtube/
+16:45:24	Warning: 	Moved Permanently for https://www.youtube.com/about/copyright/
+16:45:24	Warning: 	File has moved from https://www.youtube.com/about/copyright/ to https://www.youtube.com/howyoutubeworks/policies/copyright/
+16:48:12	Warning: 	Moved Permanently for https://www.youtube.com/about/policies/
+16:48:12	Warning: 	File has moved from https://www.youtube.com/about/policies/ to https://www.youtube.com/howyoutubeworks/policies/community-guidelines/
+16:49:21	Error: 	"Not Found" (404) at link https://www.youtube.com/channel/android-app:/com.google.android.youtube/http/www.youtube.com/channel/UCfQLy6txvSNtFFkA2Eu140w (from https://www.youtube.com/channel/UCfQLy6txvSNtFFkA2Eu140w)
+16:49:26	Error: 	"Not Found" (404) at link https://www.youtube.com/channel/ios-app:/544007664/vnd.youtube/www.youtube.com/channel/UCfQLy6txvSNtFFkA2Eu140w (from https://www.youtube.com/channel/UCfQLy6txvSNtFFkA2Eu140w)
+16:49:31	Warning: 	See Other for https://www.youtube.com/android-app://com.google.android.youtube/http/www.youtube.com/
+16:49:31	Warning: 	File has moved from https://www.youtube.com/android-app://com.google.android.youtube/http/www.youtube.com/ to https://www.youtube.com/android-app:/com.google.android.youtube/http/www.youtube.com
+16:49:31	Warning: 	See Other for https://www.youtube.com/ios-app://544007664/vnd.youtube/www.youtube.com/
+16:49:31	Warning: 	File has moved from https://www.youtube.com/ios-app://544007664/vnd.youtube/www.youtube.com/ to https://www.youtube.com/ios-app:/544007664/vnd.youtube/www.youtube.com
+16:49:31	Warning: 	Moved Permanently for https://www.youtube.com/howyoutubeworks/policies/copyright/
+16:49:31	Warning: 	File has moved from https://www.youtube.com/howyoutubeworks/policies/copyright/ to https://www.youtube.com/howyoutubeworks/copyright/
+16:49:31	Warning: 	Moved Permanently for https://www.youtube.com/howyoutubeworks/policies/community-guidelines/
+16:49:31	Warning: 	File has moved from https://www.youtube.com/howyoutubeworks/policies/community-guidelines/ to https://www.youtube.com/howyoutubeworks/our-policies/
+16:49:35	Warning: 	Moved Permanently for https://www.youtube.com/intl/en/yt/about/press/
+16:49:35	Warning: 	File has moved from https://www.youtube.com/intl/en/yt/about/press/ to https://www.youtube.com/intl/en/about/press/
+16:49:35	Warning: 	Moved Permanently for https://www.youtube.com/creators/benefits/
+16:49:35	Warning: 	File has moved from https://www.youtube.com/creators/benefits/ to https://www.youtube.com/creators/awards/
+16:49:35	Warning: 	Moved Permanently for https://www.youtube.com/yt/advertise/
+16:49:35	Warning: 	File has moved from https://www.youtube.com/yt/advertise/ to https://www.youtube.com/ads/
+16:49:35	Error: 	"Bad Request" (400) at link https://www.googletagmanager.com/gtm.js?id= (from https://www.youtube.com/creators/)
+16:50:45	Warning: 	Moved Permanently for https://www.youtube.com/intl/ALL_br/ads/
+16:50:45	Warning: 	File has moved from https://www.youtube.com/intl/ALL_br/ads/ to https://business.google.com/br/ad-solutions/youtube-ads/
+16:50:45	Warning: 	Moved Permanently for https://www.youtube.com/intl/ALL_ca/ads/
+16:50:45	Warning: 	File has moved from https://www.youtube.com/intl/ALL_ca/ads/ to https://business.google.com/ca-en/ad-solutions/youtube-ads/
+16:50:45	Warning: 	Moved Permanently for https://www.youtube.com/intl/fr_ca/ads/
+16:50:45	Warning: 	File has moved from https://www.youtube.com/intl/fr_ca/ads/ to https://business.google.com/ca-fr/ad-solutions/youtube-ads/
+16:50:45	Warning: 	Moved Permanently for https://www.youtube.com/intl/ALL_de/ads/
+16:50:45	Warning: 	File has moved from https://www.youtube.com/intl/ALL_de/ads/ to https://business.google.com/de/ad-solutions/youtube-ads/
+16:50:45	Warning: 	Moved Permanently for https://www.youtube.com/intl/ALL_fr/ads/
+16:50:45	Warning: 	File has moved from https://www.youtube.com/intl/ALL_fr/ads/ to https://business.google.com/fr/ad-solutions/youtube-ads/
+16:50:49	Warning: 	Moved Permanently for https://www.youtube.com/intl/en_id/ads/
+16:50:49	Warning: 	File has moved from https://www.youtube.com/intl/en_id/ads/ to https://business.google.com/en-all/ad-solutions/youtube-ads/
+16:51:02	Warning: 	Moved Permanently for https://www.youtube.com/intl/ALL_in/ads/
+16:51:02	Warning: 	File has moved from https://www.youtube.com/intl/ALL_in/ads/ to https://business.google.com/in/ad-solutions/youtube-ads/
+16:51:14	Warning: 	Moved Permanently for https://www.youtube.com/intl/ALL_kr/ads/
+16:51:14	Warning: 	File has moved from https://www.youtube.com/intl/ALL_kr/ads/ to https://business.google.com/kr/ad-solutions/youtube-ads/
+16:52:08	Warning: 	Moved Permanently for https://www.youtube.com/intl/ALL_jp/ads/
+16:52:08	Warning: 	File has moved from https://www.youtube.com/intl/ALL_jp/ads/ to https://business.google.com/jp/ad-solutions/youtube-ads/
+16:52:31	Warning: 	Moved Permanently for https://www.youtube.com/intl/ALL_ae/ads/
+16:52:31	Warning: 	File has moved from https://www.youtube.com/intl/ALL_ae/ads/ to https://business.google.com/ar-all/ad-solutions/youtube-ads/
+16:52:40	Warning: 	Moved Permanently for https://www.youtube.com/intl/en_ae/ads/
+16:52:40	Warning: 	File has moved from https://www.youtube.com/intl/en_ae/ads/ to https://business.google.com/en-all/ad-solutions/youtube-ads/
+16:52:55	Warning: 	Moved Permanently for https://www.youtube.com/intl/ALL_au/ads/
+16:52:55	Warning: 	File has moved from https://www.youtube.com/intl/ALL_au/ads/ to https://business.google.com/aunz/ad-solutions/youtube-ads/
+16:53:04	Warning: 	Moved Permanently for https://www.youtube.com/intl/ALL_cn/ads/
+16:53:04	Warning: 	File has moved from https://www.youtube.com/intl/ALL_cn/ads/ to https://business.google.com/cn/ad-solutions/youtube-ads/
+16:53:20	Warning: 	Moved Permanently for https://www.youtube.com/intl/en_cn/ads/
+16:53:20	Warning: 	File has moved from https://www.youtube.com/intl/en_cn/ads/ to https://business.google.com/en-all/ad-solutions/youtube-ads/
+16:53:37	Warning: 	Moved Permanently for https://www.youtube.com/intl/ALL_es/ads/
+16:53:37	Warning: 	File has moved from https://www.youtube.com/intl/ALL_es/ads/ to https://business.google.com/es/ad-solutions/youtube-ads/
+16:54:00	Warning: 	Moved Permanently for https://www.youtube.com/intl/en_hk/ads/
+16:54:00	Warning: 	File has moved from https://www.youtube.com/intl/en_hk/ads/ to https://business.google.com/en-all/ad-solutions/youtube-ads/
+16:54:04	Warning: 	Moved Permanently for https://www.youtube.com/intl/ALL_il/ads/
+16:54:04	Warning: 	File has moved from https://www.youtube.com/intl/ALL_il/ads/ to https://business.google.com/il/ad-solutions/youtube-ads/
+16:54:20	Warning: 	Moved Permanently for https://www.youtube.com/intl/ALL_it/ads/
+16:54:20	Warning: 	File has moved from https://www.youtube.com/intl/ALL_it/ads/ to https://business.google.com/it/ad-solutions/youtube-ads/
+16:54:50	Warning: 	Moved Permanently for https://www.youtube.com/intl/ALL_pl/ads/
+16:54:50	Warning: 	File has moved from https://www.youtube.com/intl/ALL_pl/ads/ to https://business.google.com/pl/ad-solutions/youtube-ads/
+16:54:59	Warning: 	Moved Permanently for https://www.youtube.com/intl/ALL_tr/ads/
+16:54:59	Warning: 	File has moved from https://www.youtube.com/intl/ALL_tr/ads/ to https://business.google.com/tr/ad-solutions/youtube-ads/
+16:55:26	Warning: 	Moved Permanently for https://www.youtube.com/intl/ALL_uk/ads/
+16:55:26	Warning: 	File has moved from https://www.youtube.com/intl/ALL_uk/ads/ to https://business.google.com/uk/ad-solutions/youtube-ads/
+16:55:35	Warning: 	Moved Permanently for https://www.youtube.com/intl/ALL_ar/ads/
+16:55:35	Warning: 	File has moved from https://www.youtube.com/intl/ALL_ar/ads/ to https://business.google.com/ar-all/ad-solutions/youtube-ads/
+16:56:00	Warning: 	Moved Permanently for https://www.youtube.com/intl/ALL_nl/ads/
+16:56:00	Warning: 	File has moved from https://www.youtube.com/intl/ALL_nl/ads/ to https://business.google.com/nl/ad-solutions/youtube-ads/
+16:56:26	Warning: 	Moved Permanently for https://www.youtube.com/intl/en_my/ads/
+16:56:26	Warning: 	File has moved from https://www.youtube.com/intl/en_my/ads/ to https://business.google.com/en-all/ad-solutions/youtube-ads/
+16:56:53	Warning: 	Moved Permanently for https://www.youtube.com/intl/en_us/ads/
+16:56:53	Warning: 	File has moved from https://www.youtube.com/intl/en_us/ads/ to https://business.google.com/us/ad-solutions/youtube-ads/
+16:57:15	Warning: 	Moved Permanently for https://www.youtube.com/ads/how-it-works/
+16:57:15	Warning: 	File has moved from https://www.youtube.com/ads/how-it-works/ to https://business.google.com/en-all/google-ads/how-ads-work/
+16:58:40	Warning: 	Moved Permanently for https://www.youtube.com/ads/news-and-inspiration/
+16:58:40	Warning: 	File has moved from https://www.youtube.com/ads/news-and-inspiration/ to https://business.google.com/en-all/ad-solutions/youtube-ads/
+16:58:48	Warning: 	Moved Permanently for https://www.youtube.com/ads/resources/
+16:58:48	Warning: 	File has moved from https://www.youtube.com/ads/resources/ to https://business.google.com/us/resources/
+16:59:17	Warning: 	Moved Permanently for https://www.youtube.com/ads/resources/best-practices/
+16:59:17	Warning: 	File has moved from https://www.youtube.com/ads/resources/best-practices/ to https://business.google.com/us/resources/
+16:59:26	Warning: 	Moved Permanently for https://www.youtube.com/ads/resources/success-stories/
+16:59:26	Warning: 	File has moved from https://www.youtube.com/ads/resources/success-stories/ to https://business.google.com/us/resources/
+16:59:36	Warning: 	Moved Permanently for https://www.youtube.com/ads/faqs/
+16:59:36	Warning: 	File has moved from https://www.youtube.com/ads/faqs/ to https://business.google.com/en-all/ad-solutions/youtube-ads/
+17:02:45	Warning: 	Found for https://www.youtube.com/yt/family/
+17:02:45	Warning: 	File has moved from https://www.youtube.com/yt/family/ to https://www.youtube.com/go/family/
+17:03:15	Warning: 	Moved Permanently for https://www.youtube.com/creatorresearch/
+17:03:15	Warning: 	File has moved from https://www.youtube.com/creatorresearch/ to https://www.youtube.com/creators/research/
+17:03:32	Warning: 	Moved Permanently for https://www.youtube.com/nextup/
+17:03:32	Warning: 	File has moved from https://www.youtube.com/nextup/ to https://www.youtube.com/creators/
+17:04:09	Warning: 	Moved Permanently for https://www.youtube.com/creators-for-change/
+17:04:09	Warning: 	File has moved from https://www.youtube.com/creators-for-change/ to https://www.youtube.com/creators/
+17:04:40	Warning: 	Found for https://www.youtube.com/csai-match/
+17:04:40	Warning: 	File has moved from https://www.youtube.com/csai-match/ to https://www.youtube.com/howyoutubeworks/
+17:04:52	Warning: 	Moved Permanently for https://www.youtube.com/about/brand-resources/
+17:04:52	Warning: 	File has moved from https://www.youtube.com/about/brand-resources/ to https://brand.youtube/
